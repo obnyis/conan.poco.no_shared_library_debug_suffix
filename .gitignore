@@ -1,0 +1,7 @@
+conan_cache/
+install/
+build/
+
+conanbuild*.sh
+conanrun*.sh
+deactivate_conan*.sh

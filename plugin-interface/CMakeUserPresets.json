@@ -1,0 +1,10 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/infx/conan.poco.no_shared_library_debug_suffix/plugin-interface/build/Release/generators/CMakePresets.json",
+        "/infx/conan.poco.no_shared_library_debug_suffix/plugin-interface/build/Debug/generators/CMakePresets.json"
+    ]
+}
